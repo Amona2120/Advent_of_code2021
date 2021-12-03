@@ -15,3 +15,4 @@ try:
 except EOFError:
     coordinate_y = abs(coordinate_y)
     print(coordinate_x * coordinate_y)
+    

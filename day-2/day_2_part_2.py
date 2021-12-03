@@ -16,3 +16,4 @@ try:
             coordinate_y += aim * value
 except EOFError:
     print(coordinate_x * coordinate_y)
+    
